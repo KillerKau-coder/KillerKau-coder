@@ -50,9 +50,9 @@ I am a passionate Software Engineering student dedicated to building ⚡ **high-
 ---
 
 ## 📫 Let's Connect!
-* 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
-* 📧 **Email:** [Your Email Address Here]
-* 🌐 **Portfolio:** [Your Portfolio Link Here]
+* 💼 **LinkedIn:** [#]
+* 📧 **Email:** [#]
+* 🌐 **Portfolio:** [#]
 
 ---
 

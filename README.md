@@ -12,7 +12,7 @@ I am a passionate Software Engineering student dedicated to building ⚡ **high-
 | **🔤 Languages** | Python 🐍, Go 🐹, Java ☕, C++ 🔹, HTML5 🌐, CSS3 🎨, JavaScript 💛 |
 | **📦 Frameworks & Libs** | PyQt6 (QWebEngine/QPainter) 🖼️, OpenCV 👁️, YOLOv8 🎯, NumPy 🔢 |
 | **🛠️ Tools & Platforms** | Linux (WSL) 🐧, Mapbox API 🗺️, Git 🗂️, GitHub 🐙, Vercel ▲, Netlify ⚡ |
-| **✨ Specialties** | Computer Vision 👁️‍🗨️, Voice Automation 🗣️, Glassmorphism 🌌, DSA 🧮 |
+| **✨ Specialties** | Computer Vision 👁️‍🗨️, Voice Automation 🗣️, Glassmorphism 🌌|
 
 ---
 
@@ -32,9 +32,7 @@ I am a passionate Software Engineering student dedicated to building ⚡ **high-
 * 🛡️ Built a lightweight, secure 16-digit card validation engine implementing the classic **Luhn Algorithm** (Mod 10).
 * ⚙️ Focused heavily on string manipulation, input sanitization, and mathematical verification concepts fundamental to financial fintech software systems.
 
-### 🏫 **Academic Coursework Architectures** | *Object-Oriented Programming (OOP)* 📚🏛️
-* 📂 Developed structured **Library & Student Management Systems** to master core software design patterns.
-* 💻 Implemented clean class inheritance hierarchies, custom error handling, and complex nested data structures to simulate production-ready data environments.
+
 
 ### 📖 **BookBot** | *Data & Analytics* 🤖📊
 * 📊 A Python command-line tool built to perform statistical and linguistic analysis on large texts and novels.
@@ -44,8 +42,8 @@ I am a passionate Software Engineering student dedicated to building ⚡ **high-
 
 ## 📊 Currently Focused On...
 * 🌌 Mastering **Modern UI/UX Styles** (Glassmorphism, dark-mode sleekness, and fluid animations).
-* 🧮 Deepening my core expertise in **Data Structures & Algorithms (DSA)** to build highly optimized, scalable backends.
-* 🐧 Advancing my knowledge in **Backend Architecture** and **Systems Programming** within Go and Linux environments.
+* 🧮 Deepening my core expertise in **AI ENGINEERING** .
+* 🐧 Advancing my knowledge in **Backend Architecture** and **Systems Programming** within Linux environments.
 
 ---
 

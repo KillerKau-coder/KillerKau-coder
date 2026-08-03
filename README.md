@@ -63,14 +63,6 @@ I'm a Software Engineering student who builds end-to-end — from real-time comp
 - Built a VB.NET banking simulation with integrated text-to-speech that audibly confirms balances, deposits, and withdrawals — enabling independent use for visually impaired users.
 - Paired every transaction path with dual visual and audio feedback plus input validation to reduce user error.
 
-### 💳 Zero-API Automated Payment Confirmation System — Full-Stack Automation
-- Designed a lightweight payment verification backend for a context with no formal payment gateway integration available.
-- Built a self-hosted automation flow that parses incoming SMS transactional alerts and triggers order fulfillment automatically.
-- A case study in solving a real infrastructure gap with pure software engineering rather than waiting on external tooling.
-
-### 🔒 [Luhn-16 Card Validator](https://github.com/DevTsamenyGabriel) — Algorithms & Data Integrity
-- Built a lightweight 16-digit card validation engine implementing the Luhn (Mod 10) algorithm.
-- Focused on string manipulation, input sanitization, and the verification logic that underpins fintech data integrity.
 
 ### 🎯 [Object-Tracker-ML](https://github.com/DevTsamenyGabriel/Object-Tracker-ML) — Interactive Single-Object Video Tracker
 - Built a real-time tracking tool where the user drags a bounding box around a target on the first frame, and OpenCV's **MIL tracker** follows it through the rest of the video.

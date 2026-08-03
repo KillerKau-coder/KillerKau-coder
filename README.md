@@ -48,8 +48,8 @@ I am a passionate Software Engineering student dedicated to building ⚡ **high-
 ---
 
 ## 📫 Let's Connect!
-* 💼 **LinkedIn:** [#]
-* 📧 **Email:** [#]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/tsameny-gabriel-022089411/
+* 📧 **Email:** tsamenygabriel11@gmail.com
 * 🌐 **Portfolio:** [#]
 
 ---
